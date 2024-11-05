@@ -1,5 +1,5 @@
-const evolution = () => {
+const Evolution = () => {
     return <h2>Evolution</h2>
 };
 
-export default evolution;
+export default Evolution;

@@ -5,10 +5,11 @@ import Footer from "./components/Footer/Footer.js";
 const App = () => {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <h1>Group Exercise 12</h1>
       <Header />
-      <Footer />
       <Home />
+      <Footer />
+
     </div>
   );
 };

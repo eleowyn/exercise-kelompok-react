@@ -1,5 +1,5 @@
-const typeeffect = () => {
+const Typeeffect = () => {
     return <h2>Type Effect</h2>
   };
 
-export default typeeffect;
+export default Typeeffect;
